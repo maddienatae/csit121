@@ -1,0 +1,26 @@
+body {
+    background-color: #f8f1e7;
+    color: #3F3128;
+}
+
+h1, h2, h3 {
+    color: #8B5E3C;
+
+}
+
+p{
+    color: #3F3128;
+}
+
+a {
+    color: #8B5E3C; 
+}
+
+#lab3{
+    color: #a66a3f
+}
+
+.date{
+    font-size: 14px;
+}
+
