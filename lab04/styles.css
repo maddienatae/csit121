@@ -1,0 +1,23 @@
+body {
+    background-image: url("images/background2.jpg");
+    background-size:cover;
+    color:black;
+    margin:20px;
+}
+
+a {
+    color:white;
+}
+
+img {
+    width:350px;
+    height: auto;
+}
+
+.current {
+    font-weight: bold;
+}
+
+a:hover {
+    color: blue;
+}
