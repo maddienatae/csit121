@@ -24,3 +24,23 @@ a {
     font-size: 14px;
 }
 
+main{
+    display:flex;
+    flex-direction: column;
+    
+}
+
+
+@media (min-width: 901px;) {
+            main {
+                flex-direction:row;
+            }
+        }
+
+article{
+    margin:10px;
+    padding:15px;
+}
+
+
+
